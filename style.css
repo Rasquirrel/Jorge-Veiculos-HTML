@@ -1,0 +1,79 @@
+body {
+    background-color:#274060;
+}
+#corpo{
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 50rem;
+    height: 55rem;
+    background-color: #1b2845;
+}
+
+#topo{
+    border: 3px solid #5591d6;
+    background-color: #5899e2;
+    border-radius: 5px;
+    width: 49rem;
+    height: 6rem;
+    margin: auto;
+    margin-top: 0.3rem;
+}
+
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#conteudo {
+    display: grid;
+
+    margin: auto;
+    margin-top: 0.3rem;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 49rem;
+    height: 42.0rem;
+    background-color: #65AFFF;
+}
+
+#rodape {
+    margin: auto;
+    margin-top: 0.3rem;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 49rem;
+    height: 4.67rem;
+    background-color: #335C81;
+}
+
+.text_rodape {
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.caixa{
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 15rem;
+    height: 15rem;
+    background-color: #1b2845;
+    margin: 3px;
+}
+
+.caixa_topo {
+    border: 3px solid #141d31;
+    background-color: #141d31;
+    margin: 0.1rem;
+    border-radius: 5px;
+    width: 14.4rem;
+    height: 3rem;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9rem;
+    text-align: center;
+    padding-bottom: 0.8rem;
+}
