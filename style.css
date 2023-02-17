@@ -91,7 +91,7 @@ img {
 }
 .caixa{
     border: 3px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     width: 15rem;
     height: 15rem;
     background-color: #1b2845;
@@ -109,6 +109,23 @@ img {
     border-radius: 5px;
     width: 14.4rem;
     height: 3rem;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9rem;
+    text-align: center;
+    padding-bottom: 0.8rem;
+}
+
+.caixa_topo_dash {
+    border: 3px solid #141d31;
+    background-color: #141d31;
+    margin: 0.1rem;
+    margin-left: 1.5rem;
+    border-radius: 25px;
+    width: 10rem;
+    height: 3rem;
+    position: relative;
+    top: -2rem;
     color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.9rem;
